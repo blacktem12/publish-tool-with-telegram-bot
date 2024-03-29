@@ -1,4 +1,4 @@
-# Telegram Bot을 활용한 Vue 프로젝트 간단한 배포툴 만들기
+# Telegram Bot 기반 Vue 프로젝트 간단한 배포툴 만들기
 
 사용 기술
 1. Telegram bot API
